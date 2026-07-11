@@ -1,8 +1,9 @@
 # DSM050 Data Visualisation — Midterm Coursework
 
-**MSc Data Science, University of London**
+**MSc Data Science, University of London**  
+
 **Module:** DSM050 Data Visualisation
-**Weight:** 30% of final module mark
+
 
 ## Topic
 Global determinants of life expectancy: a visual investigation of the WHO Life
@@ -50,4 +51,4 @@ Place `Life Expectancy Data.csv` in `data/raw/`.
 Source: https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
 
 ## AI-tool declaration
-See the *AI Use Declaration* appendix in `report/report.md`.
+See *Appendix A — AI use declaration* in [report/DSM050_CW1.md](report/DSM050_CW1.md).
