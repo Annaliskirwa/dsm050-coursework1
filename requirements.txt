@@ -1,0 +1,12 @@
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+jupyter>=1.0
+ipykernel>=6.29
+scipy>=1.12
+
+# Report build: Markdown → HTML → PDF (headless Chromium)
+markdown>=3.6
+pygments>=2.17
+playwright>=1.44
