@@ -6,6 +6,11 @@
 
   <p style="text-align: center; font-size: 13pt; font-weight: 600; margin-top: 2em;">Annalis Kirwa &mdash; 250555628</p>
 
+  <p style="text-align: center; font-size: 11pt; margin-top: 1.2em;">
+    <strong>GitHub repository:</strong>
+    <a href="https://github.com/Annaliskirwa/dsm050-coursework1">https://github.com/Annaliskirwa/dsm050-coursework1</a>
+  </p>
+
   <p style="text-align: center; font-size: 12pt; font-style: italic; color: #555; margin-top: 4em; padding: 0 3em;">
     Global determinants of life expectancy: a visual investigation of WHO country-year data (2000&ndash;2015) for a policymaker audience
   </p>
